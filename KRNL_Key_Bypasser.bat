@@ -1,5 +1,7 @@
 @echo off
-title KRNL key bypasser
+set ver=1.1
+title KRNL key bypasser - Version %ver%
+
 
 :prepobfu
 set ksja=set
@@ -55,6 +57,7 @@ cls
 echo [[94mMENU[0m] KRNL key bypasser (not really)
 :: obfucated to prevent someone copy my script and claim it's theirs
 %gssa%%wmau%%suwr%%emsj%%gfwu%%nsha%%euas%%emsj%%esad%%gssa%%ejas%%ghsa%%emsj%%emau%%suwr%%emsj%%ekau%%ekay%%ekqy%%eksu%%lspa%%lspa%
+echo [[94mMENU[0m] Version %ver%
 echo.
 echo [[94mMENU[0m] Menu.
 echo [[94mMENU[0m] 1. Start
