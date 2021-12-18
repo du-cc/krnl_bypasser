@@ -14,6 +14,6 @@ Yeah, I think you will know how it works
 - [ ] Add command args
 - [ ] Add configure feature
 - [ ] Add help and credits page (in batch program)
-- [ ] Version showing system
+- [X] Version showing system
 - [ ] Automatic update system
 - [ ] light and dark mode?
