@@ -1,5 +1,7 @@
 # krnl_bypasser
 
+### [Beta Download](https://github.com/Ongyj888/krnl_bypasser/releases/tag/v2.0-beta)
+
 ### ⚠️⚠️⚠️ Note: PLEASE CREDIT ME IF YOU WANT TO COPY MY SCRIPT!!! and DON'T BEG FOR UNOBFUSCATED SCRIPT
 
 # How to use:
