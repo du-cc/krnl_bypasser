@@ -1,12 +1,15 @@
 # krnl_bypasser
 
+## Project is going to discontinued but I will do it when I am free
+
 ### [Beta Download](https://github.com/Ongyj888/krnl_bypasser/releases/tag/v2.0-beta)
 
-### ⚠️⚠️⚠️ Note: PLEASE CREDIT ME IF YOU WANT TO COPY MY SCRIPT!!!
 ### [FULL OPEN SOURCE REQUEST](https://github.com/Ongyj888/krnl_bypasser/issues/1) obfuscated part is just some redirect stuff and credits
-script: 
+All obfuscated part in v2: 
 ```
 start cdn.krnl.ca/getkey.php
+and
+echo Credits to Ongyj888
 ```
 
 # How to use:
