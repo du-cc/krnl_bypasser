@@ -2,7 +2,12 @@
 
 ### [Beta Download](https://github.com/Ongyj888/krnl_bypasser/releases/tag/v2.0-beta)
 
-### ⚠️⚠️⚠️ Note: PLEASE CREDIT ME IF YOU WANT TO COPY MY SCRIPT!!! and DON'T BEG FOR UNOBFUSCATED SCRIPT
+### ⚠️⚠️⚠️ Note: PLEASE CREDIT ME IF YOU WANT TO COPY MY SCRIPT!!!
+### [FULL OPEN SOURCE REQUEST](https://github.com/Ongyj888/krnl_bypasser/issues/1) obfuscated part is just some redirect stuff and credits
+script: 
+```
+start cdn.krnl.ca/getkey.php
+```
 
 # How to use:
 For Windows: 
