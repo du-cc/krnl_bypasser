@@ -12,6 +12,8 @@ timeout /t 015 /nobreak >nul
 echo Credits to Ongyj888
 ```
 
+will unobfuscate all stuff in v3 stay tuned ;)
+
 # How to use:
 For Windows: 
 Double click the batch file
