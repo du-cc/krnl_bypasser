@@ -8,7 +8,7 @@
 All obfuscated part in v2: 
 ```
 start cdn.krnl.ca/getkey.php
-and
+timeout /t 015 /nobreak >nul
 echo Credits to Ongyj888
 ```
 
