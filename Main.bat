@@ -21,7 +21,7 @@ echo Do captcha and press any key here
 pause >nul
 timeout /t 016 /nobreak >nul
 echo fifth
-start https://cdn.krnl.place_interface
+start https://cdn.krnl.place/interface
 echo Done
 echo Press any key to quit
 pause >nul
