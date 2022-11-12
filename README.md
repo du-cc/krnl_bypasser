@@ -11,8 +11,8 @@ Double click the batch file
 Yeah, I think you will know how it works
 
 # Links: (follow order!)
-#### /getkey
-#### /getkey_scripts
-#### /getkey_games
-#### /getkey_interface
-#### /getkey.php
+1. /getkey
+2. /getkey_scripts
+3. /getkey_games
+4. /getkey_interface
+5. /getkey.php
