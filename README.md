@@ -1,6 +1,8 @@
 # krnl_bypasser
 
-## Project recontinued (now simplified)!
+<h1>Quick survey about the key system! <a href="https://forms.gle/KKsxVidqjtkXwUQG8">Fill in</a></h1>
+
+<h2> Project recontinued (now simplified)! </h2>
 
 # How to use:
 For Windows: 
