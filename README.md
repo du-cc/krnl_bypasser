@@ -2,6 +2,7 @@
 
 <h1>Quick survey about the key system! <a href="https://forms.gle/KKsxVidqjtkXwUQG8">Fill in</a></h1>
 <h2>I found that many of you said yes, so I might update it frequently? idk</h2>
+<h2>UPDATE: maybe I'll just use linkvertise bypasser shits and redirect idk</h2>
 
 
 
