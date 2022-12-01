@@ -1,5 +1,6 @@
 # krnl_bypasser
 ## v3 is out! now with linkvertise bypasser system for anti change key link
+### issues? report it here!
 
 
 
