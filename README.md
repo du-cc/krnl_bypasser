@@ -1,8 +1,5 @@
 # krnl_bypasser
-
-<h1>Quick survey about the key system! <a href="https://forms.gle/KKsxVidqjtkXwUQG8">Fill in</a></h1>
-<h2>I found that many of you said yes, so I might update it frequently? idk</h2>
-<h2>UPDATE: maybe I'll just use linkvertise bypasser shits and redirect idk <a href="https://github.com/bypass-vip/bypass.vip">link</a></h2>
+## v3 is out! now with linkvertise bypasser system for anti change key link
 
 
 
@@ -15,8 +12,8 @@ Double click the batch file
 Yeah, I think you will know how it works
 
 # Links: (follow order!)
-1. /getkey
-2. /getkey_scripts
-3. /getkey_games
-4. /getkey_interface
-5. /getkey.php
+1. https://linkvertise.com/48193/krnlc4/1
+2. https://linkvertise.com/48193/krnlkey/1
+3. https://linkvertise.com/48193/thekrnlkey/1
+4. https://linkvertise.com/48193/krnlc3/1
+
