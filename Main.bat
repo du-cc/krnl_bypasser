@@ -43,6 +43,8 @@ call :parsejson
 set c3=%destination%
 echo Done!
 echo Bypassing...
+cd..
+rmdir /s /q KRNLBypasser
 echo.
 echo =================
 echo Captcha 1
@@ -69,17 +71,10 @@ echo Press any key if done captcha
 pause >nul
 echo Wait...
 timeout /t 20 /nobreak >nul
-echo Captcha 5
+echo Key
 start %c3%
-echo Press any key if done captcha
-pause >nul
-echo Wait...
-timeout /t 20 /nobreak >nul
-start https://cdn.krnl.place/getkey.php
-echo.
-echo Done! Please wait...
-cd..
-rmdir /s /q KRNLBypasser
+echo =================
+echo Done!
 echo Press any key to exit
 pause >nul
 exit /b
