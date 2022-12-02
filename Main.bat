@@ -50,31 +50,31 @@ start https://cdn.krnl.place/getkey.php
 echo Press any key if done captcha
 pause >nul
 echo Wait...
-timeout /t 16 /nobreak >nul
+timeout /t 20 /nobreak >nul
 echo Captcha 2
 start %c4%
 echo Press any key if done captcha
 pause >nul
 echo Wait...
-timeout /t 16 /nobreak >nul
+timeout /t 20 /nobreak >nul
 echo Captcha 3
 start %key%
 echo Press any key if done captcha
 pause >nul
 echo Wait...
-timeout /t 16 /nobreak >nul
+timeout /t 20 /nobreak >nul
 echo Captcha 4
 start %thekey%
 echo Press any key if done captcha
 pause >nul
 echo Wait...
-timeout /t 16 /nobreak >nul
+timeout /t 20 /nobreak >nul
 echo Captcha 5
 start %c3%
 echo Press any key if done captcha
 pause >nul
 echo Wait...
-timeout /t 16 /nobreak >nul
+timeout /t 20 /nobreak >nul
 start https://cdn.krnl.place/getkey.php
 echo.
 echo Done! Please wait...
